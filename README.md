@@ -56,11 +56,10 @@ barrier_options/
 1. Open MATLAB.
 2. Navigate to the `barrier_options/` folder.
 3. Run one of the test scripts:
+
    ```matlab
    ame_test_double_barriers
    ```
-
-```
 
 4. Results will be visualized and printed in the console.
 
@@ -108,4 +107,3 @@ Project Team Name: **M.A.N.S**
 ## 📌 License
 
 This project is intended for educational and academic use. Feel free to modify and adapt for your learning or research.
-```
